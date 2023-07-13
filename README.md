@@ -2,6 +2,8 @@
 
 This project is a simple example of a switcher that allows toggling between light and dark modes on a web page. The project code can be found on the following CodePen link: [Switcher Light Dark Mode on CodePen](https://codepen.io/AndrewLenz21/pen/MWzQEpQ).
 
+![Picture1](https://github.com/AndrewLenz21/Dark-Light-mode-Switcher/assets/124147096/fd9a2227-ff95-458d-9e1e-bd17c215c873)
+
 ## Description
 
 The Light Dark Mode switcher is a commonly implemented feature in applications and websites, enabling users to customize their viewing experience based on their preferences. In this project, a basic switcher has been implemented that changes the background and text colors of a page to toggle between light and dark modes.
