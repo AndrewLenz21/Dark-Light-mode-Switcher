@@ -12,7 +12,6 @@ The Light Dark Mode switcher is a commonly implemented feature in applications a
 
 - **Mode Toggle Button**: The project includes a button in the interface that allows the user to switch between light and dark modes.
 - **Style Alternation**: Clicking the button triggers a JavaScript function that changes the CSS styles of the page, adjusting the background and text colors based on the selected mode.
-- **Configuration Persistence**: If the user closes or refreshes the page, the selected mode configuration is maintained using cookies or local storage (depending on the specific implementation).
 
 ## Technologies Used
 
@@ -21,7 +20,6 @@ The project utilizes the following technologies:
 - **HTML**: Used to structure the content of the page and provide necessary elements.
 - **CSS**: Used to define the visual styles of the page and switch them based on the selected mode.
 - **JavaScript**: Used to handle the switcher logic and toggle between light and dark modes.
-- **Cookies or Local Storage**: Used to store the selected mode configuration and maintain persistence across the page.
 
 ## How to Use the Project
 
